@@ -9,6 +9,7 @@
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.4",
     "mobx-react-router": "^4.0.7",
+    "node-gyp": "^8.4.1",
     "node-sass": "^4.12.0",
     "query-string": "^6.5.0",
     "react": "^16.8.6",
